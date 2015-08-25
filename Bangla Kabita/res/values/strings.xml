@@ -33,7 +33,7 @@
     </array>
     <!-- Content Description -->
     <string name="desc_list_item_icon">Item Icon </string>
-    
+    <!--  I'm not using Text for this it's now unneccessary  -->
     <string name="nazrul">Kazi Nazrul Islam</string>
     <string name="michel">michel </string>
     <string name="rabindro">rabindro </string>
